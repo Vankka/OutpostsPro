@@ -1,2 +1,3 @@
-# OutpostsPro-API
-Just a place for the api jar, Look in the [Releases](https://github.com/Vankka/OutpostsPro-API/releases)
+# OutpostsPro
+Please see [the Wiki home](https://github.com/Vankka/OutpostsPro/wiki)  
+or if you're a developer [API page](https://github.com/Vankka/OutpostsPro/wiki/API)
